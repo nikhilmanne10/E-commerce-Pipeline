@@ -1,4 +1,4 @@
-# E-commerce Data Engineering Pipeline
+# E-commerce Pipeline
 
 A production-ready, end-to-end data pipeline for processing e-commerce data using modern cloud and orchestration tools.
 
