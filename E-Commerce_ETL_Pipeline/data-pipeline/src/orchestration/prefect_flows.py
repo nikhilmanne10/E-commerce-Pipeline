@@ -1,5 +1,5 @@
 """
-TUTORIAL: Data Processing Pipeline
+Data Processing Pipeline
 Download data from S3, clean it, transform it, and upload results back to S3.
 """
 
